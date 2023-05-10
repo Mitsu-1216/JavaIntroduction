@@ -1,4 +1,4 @@
-package introduction.introduction15_9;
+package introduction.introduction15_10;
 
 public class Hero {
     private String name;
