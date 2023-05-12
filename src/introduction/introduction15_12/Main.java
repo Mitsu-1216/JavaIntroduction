@@ -7,7 +7,8 @@ public class Main {
     public static void main(String[] args) {
         Calendar c = Calendar.getInstance();
         c.set(2022, 3, 26, 13, 10, 45);
-        System.out.println("初めて会った日は" + c.getTime() + "です。");
+        System.out.println("初めて会った日は" + c.get(Calendar.YEAR) + "年" +
+                c.get(Calendar.MONTH) + "月" + c.get(Calendar.DATE) + "日です。");
 
         // 月を変更(0~11から選択) /
         c.set(Calendar.YEAR, 2019);
