@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
 
+        // ArrayListの宣言
         // Integer型のインスタンスを保持
         ArrayList<Integer> nums = new ArrayList<Integer>();
 
