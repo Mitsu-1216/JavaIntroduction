@@ -7,7 +7,11 @@ public class Main {
 
         // ArrayListの宣言
         // Integer型のインスタンスを保持
-        ArrayList<Integer> nums = new ArrayList<Integer>();
+        // ArrayList<Integer> nums = new ArrayList<Integer>();
+
+        // ダイヤモンド演算子
+        // 右辺の中身省略可
+        ArrayList<Integer> nums = new ArrayList<>();
 
         // リストに追加
         nums.add(3);
