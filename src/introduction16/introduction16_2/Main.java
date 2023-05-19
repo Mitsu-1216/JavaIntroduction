@@ -9,7 +9,9 @@ public class Main {
         heroes.add("kacchan");
         heroes.add("ochako");
         Iterator<String> it = heroes.iterator();
+        // 進められるなら繰り返す
         while (it.hasNext()) {
+            // 内容を取り出す
             String e = it.next();
             System.out.println(e);
         }
