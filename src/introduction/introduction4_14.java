@@ -1,4 +1,4 @@
-package introduction;
+package practice;
 
 public class introduction4_14 {
 	public static void main(String[] args) {
