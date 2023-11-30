@@ -13,10 +13,9 @@ public class Main {
         prefs.put("大阪府",24);
         prefs.put("奈良県",32);
 
-        // リストをループ
-        for (int i : nums) {
-            System.out.println(i);
-        }
+        // 値を取得
+        int osaka = prefs.get("大阪府");
+        System.out.println("大阪のラッキーナンバーは" + osaka);
 
     }
 }
