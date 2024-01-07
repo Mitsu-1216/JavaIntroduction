@@ -1,4 +1,4 @@
-package introduction16.introduction16_6;
+package introduction.introduction16.introduction16_6;
 
 import java.util.ArrayList;
 

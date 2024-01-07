@@ -1,4 +1,4 @@
-package introduction16.introduction16_2;
+package introduction.introduction16.introduction16_2;
 
 import java.util.*;
 

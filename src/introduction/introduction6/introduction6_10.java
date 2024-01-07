@@ -1,4 +1,4 @@
-package introduction;
+package introduction.introduction6;
 
 public class introduction6_10 {
 	public static void main(String[] args) {

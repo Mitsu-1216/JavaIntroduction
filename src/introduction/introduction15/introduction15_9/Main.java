@@ -1,4 +1,4 @@
-package introduction.introduction15_9;
+package introduction.introduction15.introduction15_9;
 
 public class Main {
     public static void main(String[] args) {

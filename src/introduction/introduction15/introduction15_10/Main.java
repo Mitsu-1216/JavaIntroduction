@@ -1,5 +1,4 @@
-package introduction.introduction15_10;
-
+package introduction.introduction15.introduction15_10;
 public class Main {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
