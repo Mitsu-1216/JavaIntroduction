@@ -1,4 +1,4 @@
-package practice6.introduction9_8;
+package practice.practice6.introduction9_8;
 
 public class Hero {
 	String name;

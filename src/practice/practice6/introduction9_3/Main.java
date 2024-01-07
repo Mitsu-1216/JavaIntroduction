@@ -1,4 +1,4 @@
-package practice6.introduction9_3;
+package practice.practice6.introduction9_3;
 
 public interface Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package practice6.introduction9_5;
+package practice.practice6.introduction9_5;
 
 public class Wizard {
     String name;

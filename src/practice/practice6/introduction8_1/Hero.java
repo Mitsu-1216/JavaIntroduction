@@ -1,4 +1,4 @@
-package practice6.introduction8_1;
+package practice.practice6.introduction8_1;
 
 public class Hero {
 	// フィールドを追加

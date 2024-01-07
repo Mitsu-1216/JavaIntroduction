@@ -1,4 +1,4 @@
-package practice;
+package practice.practice6.introduction8_1;
 
 import java.io.Console;
 
