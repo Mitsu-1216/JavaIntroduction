@@ -1,4 +1,4 @@
-package practice13.practice13;
+package practice.practice13_2;
 
 public class Wand {
     private String name;

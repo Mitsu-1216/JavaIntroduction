@@ -1,4 +1,4 @@
-package practice6.introduction10_10;
+package practice.practice6.introduction10_10;
 
 public class Item {
 	String name;

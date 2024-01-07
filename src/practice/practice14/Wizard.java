@@ -1,4 +1,4 @@
-package practice14.practice14;
+package practice.practice14;
 
 public class Wizard {
     private int hp;

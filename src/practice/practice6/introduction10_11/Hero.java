@@ -1,4 +1,4 @@
-package practice6.introduction10_11;
+package practice.practice6.introduction10_11;
 
 public class Hero {
 	String name = "ミナト";

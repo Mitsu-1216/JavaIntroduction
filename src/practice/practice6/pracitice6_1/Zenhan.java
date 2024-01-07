@@ -1,4 +1,4 @@
-package practice6.pracitice6_1;
+package practice.practice6.pracitice6_1;
 
 public class Zenhan {
 

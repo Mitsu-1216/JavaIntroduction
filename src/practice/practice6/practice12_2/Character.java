@@ -1,4 +1,4 @@
-package practice6.practice12_2;
+package practice.practice6.practice12_2;
 
 public abstract class Character {
 	String name;

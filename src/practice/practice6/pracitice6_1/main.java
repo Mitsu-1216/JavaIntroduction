@@ -1,6 +1,6 @@
-package practice6.pracitice6_1;
+package practice.practice6.pracitice6_1;
 
-import practice6.pracitice6_1.Zenhan;
+import practice.practice6.pracitice6_1.Zenhan;
 
 public class main {
 	public static void main(String[] args) throws Exception {

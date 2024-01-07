@@ -1,4 +1,4 @@
-package practice6.practice11_1;
+package practice.practice6.practice11_1;
 
 public class Book extends TangibleAsset {
     String isbn;

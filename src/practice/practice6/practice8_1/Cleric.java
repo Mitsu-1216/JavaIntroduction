@@ -1,4 +1,4 @@
-package practice6.practice8_1;
+package practice.practice6.practice8_1;
 
 public class Cleric {
 	String name;

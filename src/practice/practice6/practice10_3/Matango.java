@@ -1,4 +1,4 @@
-package practice6.practice10_3;
+package practice.practice6.practice10_3;
 
 public class Matango {
 	int hp = 50;

@@ -1,4 +1,4 @@
-package practice6.practice11_1;
+package practice.practice6.practice11_1;
 
 public abstract class TangibleAsset {
 	String name;

@@ -1,4 +1,4 @@
-package practice6.practice12_2;
+package practice.practice6.practice12_2;
 
 public class Wizard extends Character {
     int mp;
