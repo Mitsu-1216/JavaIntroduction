@@ -1,14 +1,15 @@
 package pa;
 
+import java.util.*;
+
 public class D269 {
     public static void main(String[] args) {
-        System.out.println("あなたの名前を入力してください");
-        String name = new java.util.Scanner(System.in).nextLine();
-
-        System.out.println("あなたの年齢を入力してください");
-        int age = new java.util.Scanner(System.in).nextInt();
-
-        System.out.println("こんにちは！" + age + "歳の" + name + "さん！！");
-
+        String line = "Hxexlxlxoxwx!x";
+        String word = "";
+        for(int i = 0; i < line.length()/2; i++){
+            word += String.valueOf(line.charAt(i*2));
+            }
+        System.out.println(word);
     }
 }
+
