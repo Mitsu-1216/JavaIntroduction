@@ -1,8 +1,6 @@
 package pa;
 
-import java.util.*;
-
-public class D269 {
+public class D_2 {
     public static void main(String[] args) {
         String line = "Hxexlxlxox!x!x";
         String word = "";
