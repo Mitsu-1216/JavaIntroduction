@@ -4,7 +4,7 @@ import java.util.*;
 
 public class D269 {
     public static void main(String[] args) {
-        String line = "Hxexlxlxoxwx!x";
+        String line = "Hxexlxlxox!x!x";
         String word = "";
         for(int i = 0; i < line.length()/2; i++){
             word += String.valueOf(line.charAt(i*2));
