@@ -19,5 +19,10 @@ public class Main {
         int osaka = prefs.get("大阪府");
         System.out.println("大阪のラッキーナンバーは" + osaka);
 
+        // セットし直す
+        prefs.put("大阪府",324);
+        osaka = prefs.get("大阪府");
+        System.out.println("大阪のラッキーナンバーは" + osaka);
+
     }
 }
