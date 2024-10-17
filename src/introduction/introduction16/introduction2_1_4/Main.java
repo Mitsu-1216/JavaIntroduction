@@ -1,9 +1,5 @@
 package introduction.introduction16.introduction2_1_4;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-
 public class Main {
     public static void main(String[] args) {
 
