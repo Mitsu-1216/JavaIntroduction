@@ -2,6 +2,7 @@ package silver.s_1;
 
 
 public class s_1 {
+	// final
 	public static final void main(String[] args) {
 
 		int isHungry = 1;
